@@ -1,4 +1,4 @@
-# SIS: Floor Plan Parsing, Structural Reasoning, and Analysis Verification Platform
+# OASIS: Floor Plan Parsing, Structural Reasoning, and Analysis Verification Platform
 
 ## Overview
 
